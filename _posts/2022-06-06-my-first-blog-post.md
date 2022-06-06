@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my 5th blog post try"
+title: Welcome to my 5th blog post try
 date: 2022-06-06
 ---
 
